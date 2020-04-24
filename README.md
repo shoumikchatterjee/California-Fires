@@ -1,4 +1,6 @@
-# California-Fires  
+# California-Fires 
+
+These files showcase my graphical abilities, specifically regression, scatter, and circle/bubble plots.  
 
 The graphs file shows the temperature ranges and humidities of three major fires during December 2017 as well as multiple charts to display that linear regression does not capture the increasing human and property devastations due to the fires from 2010 to 2017.
 
