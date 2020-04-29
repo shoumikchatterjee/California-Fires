@@ -1,6 +1,6 @@
 ABOUT:
 
-# These files are graphs related to wildfires in California which raged during the 2010's.
+# These files are graphs related to wildfires which raged in California during the 2010's.
 
 FEATURES:
 
